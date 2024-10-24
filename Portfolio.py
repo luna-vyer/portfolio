@@ -1,8 +1,5 @@
 import streamlit as st
-from streamlit_timeline import st_timeline
 import streamlit.components.v1 as components
-import os
-import json
 
 st.set_page_config(page_title="Luna's Portfolio", layout="centered", page_icon=":star:")
 
