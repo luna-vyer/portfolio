@@ -1,7 +1,7 @@
-streamlit==1.21.0
-streamlit-folium==0.7.0
-pandas==2.0.3
-folium==0.14.0
-plotly==5.14.0
-pydeck==0.8.0
-geopandas==0.10.2
+streamlit
+streamlit-folium
+pandas
+folium
+plotly
+pydeck
+geopandas
